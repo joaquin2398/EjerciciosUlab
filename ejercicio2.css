@@ -1,0 +1,127 @@
+.teal {
+    color: teal;
+}
+
+.teal td:nth-of-type(2) {
+    background: red;
+}
+
+.teal td:nth-of-type(3) {
+    background: green;
+}
+
+.teal td:nth-of-type(4) {
+    background: blue;
+}
+
+.red {
+    color: red;
+}
+
+.red td:nth-of-type(2) {
+    background: red;
+}
+
+.red td:nth-of-type(3) {
+    background: green;
+}
+
+.red td:nth-of-type(4) {
+    background: blue;
+}
+
+.blue {
+    color: blue;
+}
+
+.blue td:nth-of-type(2) {
+    background: red;
+}
+
+.blue td:nth-of-type(3) {
+    background: green;
+}
+
+.blue td:nth-of-type(4) {
+    background: blue;
+}
+
+.orange {
+    color: orange;
+}
+
+.orange td:nth-of-type(2) {
+    background: red;
+}
+
+.orange td:nth-of-type(3) {
+    background: green;
+}
+
+.orange td:nth-of-type(4) {
+    background: blue;
+}
+
+.purple{
+    color: purple;
+}
+
+.purple td:nth-of-type(2) {
+    background: red;
+}
+
+.purple td:nth-of-type(3) {
+    background: green;
+}
+
+.purple td:nth-of-type(4) {
+    background: blue;
+}
+
+.olive {
+    color: olive;
+}
+
+.olive td:nth-of-type(2) {
+    background: red;
+}
+
+.olive td:nth-of-type(3) {
+    background: green;
+}
+
+.olive td:nth-of-type(4) {
+    background: blue;
+}
+
+.fuchsia {
+    color: fuchsia;
+}
+
+.fuchsia td:nth-of-type(2) {
+    background: red;
+}
+
+.fuchsia td:nth-of-type(3) {
+    background: green;
+}
+
+.fuchsia td:nth-of-type(4) {
+    background: blue;
+}
+
+.green {
+    color: green;
+}
+
+.green td:nth-of-type(2) {
+    background: red;
+}
+
+.green td:nth-of-type(3) {
+    background: green;
+}
+
+.green td:nth-of-type(4) {
+    background: blue;
+}

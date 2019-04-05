@@ -1,0 +1,20 @@
+h1 {
+    font-family:Georgia, courier, serif;
+    font-size: 32px;
+    font-variant: small-caps 
+    }
+
+h2 {
+    font-family:Georgia, courier, serif;
+    font-size: 24px;
+    font-variant: small-caps;
+    font-style: italic
+}
+
+ul {
+    font-weight: bold;
+}
+
+li strong{
+    font-weight: normal;
+}
